@@ -59,12 +59,6 @@ pytest
 jsonschema
 License
 
-This project is licensed under the MIT License.
-
-Feel free to contribute to this project by creating issues or submitting pull requests. If you encounter any issues, please report them in the issue tracker.
-
-For any questions, please contact [your-email@example.com].
-
 
 
 
